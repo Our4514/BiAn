@@ -1,5 +1,5 @@
  {
-	{
+	 {
         "name": "arbitrary_location_write_simple.sol_confuse.sol",
         "path": "obfuscated_dataset/access_control/arbitrary_location_write_simple.sol_confuse.sol",
         "vulnerabilities": [
