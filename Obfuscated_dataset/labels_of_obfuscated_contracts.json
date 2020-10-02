@@ -540,7 +540,7 @@
         "vulnerabilities": [
             {
                 "bites": [
-					857-1155
+		    857-1155
                 "category": "unchecked_low_level_calls"
             },
             {
