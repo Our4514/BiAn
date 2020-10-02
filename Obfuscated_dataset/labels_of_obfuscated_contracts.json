@@ -542,7 +542,7 @@
                 "bites": [
 		    857-1155
                 "category": "unchecked_low_level_calls"
-            },
+             ],
             {
                 "bites": [
                     2314-2464
@@ -553,7 +553,7 @@
     },
 	{
         "name": "uncheck1.sol_confuse.sol",
-        "path": "obfuscated_dataset/unchecked_low_level_calls/uncheck1.sol_confuse.sol",,
+        "path": "obfuscated_dataset/unchecked_low_level_calls/uncheck1.sol_confuse.sol",
         "vulnerabilities": [
             {
                 "bites": [
