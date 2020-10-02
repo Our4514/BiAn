@@ -1,0 +1,578 @@
+ {
+	{
+        "name": "arbitrary_location_write_simple.sol_confuse.sol",
+        "path": "obfuscated_dataset/access_control/arbitrary_location_write_simple.sol_confuse.sol",
+        "vulnerabilities": [
+            {
+                "bites": [
+                    1128-1209
+                ],
+                "category": "access_control"
+            }
+        ]
+    },
+	
+	 {
+        "name": "incorrect_constructor_name1.sol_confuse.sol_confuse.sol_confuse.sol",
+        "path": "obfuscated_dataset/access_control/incorrect_constructor_name1.sol_confuse.sol",
+        "vulnerabilities": [
+            {
+                "bites": [
+                    148-257
+                ],
+                "category": "access_control"
+            }
+        ]
+    },
+    {
+        "name": "incorrect_constructor_name2.sol_confuse.sol_confuse.sol_confuse.sol",
+        "path": "obfuscated_dataset/access_control/incorrect_constructor_name2.sol_confuse.sol_confuse.sol",
+        "vulnerabilities": [
+            {
+                "bites": [
+                    148-257
+                ],
+                "category": "access_control"
+            }
+        ]
+    },
+    {
+        "name": "incorrect_constructor_name3.sol_confuse.sol",
+        "path": "obfuscated_dataset/access_control/incorrect_constructor_name3.sol_confuse.sol",
+        "vulnerabilities": [
+            {
+                "bites": [
+                    148-257
+                ],
+                "category": "access_control"
+            }
+        ]
+    },
+    {
+        "name": "mapping_write.sol_confuse.sol",
+        "path": "obfuscated_dataset/access_control/mapping_write.sol_confuse.sol",
+        "vulnerabilities": [
+            {
+                "bites": [
+                    668-1007
+                ],
+                "category": "access_control"
+            }
+        ]
+    },
+	{
+        "name": "mycontract.sol_confuse.sol",
+        "path": "obfuscated_dataset/access_control/mycontract.sol_confuse.sol",
+        "vulnerabilities": [
+            {
+                "bites": [
+                   1231-1310
+                ],
+                "category": "access_control"
+            }
+        ]
+    },
+	{
+        "name": "phishable.sol_confuse.sol",
+        "path": "obfuscated_dataset/access_control/phishable.sol_confuse.sol",
+        "vulnerabilities": [
+            {
+                "bites": [
+                    658-767
+                ],
+                "category": "access_control"
+            }
+        ]
+    },
+	{
+        "name": "proxy.sol_confuse.sol",
+        "path": "obfuscated_dataset/access_control/proxy.sol_confuse.sol",
+        "vulnerabilities": [
+            {
+                "bites": [
+                    593-702
+                ],
+                "category": "access_control"
+            }
+        ]
+    },
+    {
+        "name": "rubixi.sol_confuse.sol",
+        "path": "obfuscated_dataset/access_control/rubixi.sol_confuse.sol",
+        "vulnerabilities": [
+            {
+                "bites": [
+                    77-209
+                ],
+                "category": "access_control"
+            }
+        ]
+    },
+    {
+        "name": "simple_suicide.sol_confuse.sol",
+        "path": "obfuscated_dataset/access_control/simple_suicide.sol_confuse.sol",
+        "vulnerabilities": [
+            {
+                "bites": [
+                    351-448
+                ],
+                "category": "access_control"
+            }
+        ]
+    },
+    {
+        "name": "unprotected0.sol_confuse.sol",
+        "path": "obfuscated_dataset/access_control/unprotected0.sol_confuse.sol",
+        "vulnerabilities": [
+            {
+                "bites": [
+                    976-1588
+                ],
+                "category": "access_control"
+            }
+        ]
+    },
+    {
+        "name": "wallet_02_refund_nosub.sol_confuse.sol",
+        "path": "obfuscated_dataset/access_control/wallet_02_refund_nosub.sol_confuse.sol",
+        "vulnerabilities": [
+            {
+                "bites": [
+                    1568-1699
+                ],
+                "category": "access_control"
+            }
+        ]
+    },
+    {
+        "name": "wallet_03_wrong_constructor.sol_confuse.sol",
+        "path": "obfuscated_dataset/access_control/wallet_03_wrong_constructor.sol_confuse.sol",
+        "vulnerabilities": [
+            {
+                "bites": [
+                    167-615
+                ],
+                "category": "access_control"
+            }
+        ]
+    },
+    {
+        "name": "wallet_04_confused_sign.sol_confuse.sol",
+        "path": "obfuscated_dataset/access_control/wallet_04_confused_sign.sol_confuse.sol",
+        "vulnerabilities": [
+            {
+                "bites": [
+                    1311-1488
+                ],
+                "category": "access_control"
+            }
+        ]
+    },
+	{
+        "name": "integer_overflow_1.sol_confuse.sol",
+        "path": "obfuscated_dataset/arithmetic/integer_overflow_1.sol_confuse.sol",
+        "vulnerabilities": [
+            {
+                "bites": [
+                    409-542
+                ],
+                "category": "arithmetic"
+            }
+        ]
+    },
+    {
+        "name": "integer_overflow_add.sol_confuse.sol",
+        "path": "obfuscated_dataset/arithmetic/integer_overflow_add.sol_confuse.sol",
+        "vulnerabilities": [
+            {
+                "bites": [
+                    410-544
+                ],
+                "category": "arithmetic"
+            }
+        ]
+    },
+    {
+        "name": "integer_overflow_benign_1.sol_confuse.sol",
+        "path": "obfuscated_dataset/arithmetic/integer_overflow_benign_1.sol_confuse.sol",
+        "vulnerabilities": [
+            {
+                "bites": [
+                    559-742
+                ],
+                "category": "arithmetic"
+            }
+        ]
+    },
+	{
+        "name": "integer_overflow_mul.sol_confuse.sol",
+        "path": "obfuscated_dataset/arithmetic/integer_overflow_mul.sol_confuse.sol",
+        "vulnerabilities": [
+            {
+                "bites": [
+                    380-584
+                ],
+                "category": "arithmetic"
+            }
+        ]
+    },
+	{
+        "name": "tokensalechallenge.sol_confuse.sol",
+        "path": "obfuscated_dataset/arithmetic/tokensalechallenge.sol_confuse.sol",
+        "vulnerabilities": [
+            {
+                "bites": [
+                    1356-1577
+                ],
+                "category": "arithmetic"
+            },
+            {
+                "bites": [
+                    1663-1831
+                ],
+                "category": "arithmetic"
+            },
+            {
+                "bites": [
+                    2678-2901
+                ],
+                "category": "arithmetic"
+            }
+        ]
+    },
+	{
+        "name": "lottery.sol_confuse.sol",
+        "path": "obfuscated_dataset/bad_randomness/lottery.sol_confuse.sol",
+        "vulnerabilities": [
+            {
+                "bites": [
+                    1504-1813
+                ],
+                "category": "bad_randomness"
+            },
+            {
+                "bites": [
+                    1947-232
+                ],
+                "category": "bad_randomness"
+            }
+        ]
+    },
+	{
+        "name": "old_blockhash.sol_confuse.sol",
+        "path": "obfuscated_dataset/bad_randomness/old_blockhash.sol_confuse.sol",
+        "vulnerabilities": [
+            {
+                "bites": [
+                    2468-2701
+                ],
+                "category": "bad_randomness"
+            }
+        ]
+    },
+	{
+        "name": "auction.sol_confuse.sol",
+        "path": "obfuscated_dataset/denial_of_service/auction.sol_confuse.sol",
+        "vulnerabilities": [
+            {
+                "bites": [
+                    792-1030
+                ],
+                "category": "denial_of_service"
+            }
+        ]
+    },
+	{
+        "name": "list_dos.sol_confuse.sol",
+        "path": "obfuscated_dataset/denial_of_service/list_dos.sol_confuse.sol",
+        "vulnerabilities": [
+            {
+                "bites": [
+                    3149-3263
+                ],
+                "category": "denial_of_service"
+            },
+            {
+                "bites": [
+                    3341-3455
+                ],
+                "category": "denial_of_service"
+            }
+        ]
+    },
+	 {
+        "name": "FindThisHash.sol_confuse.sol",
+        "path": "obfuscated_dataset/front_running/FindThisHash.sol_confuse.sol",
+        "vulnerabilities": [
+            {
+                "bites": [
+                    529-632
+                ],
+                "category": "front_running"
+            }
+        ]
+    },
+	{
+        "name": "eth_tx_order_dependence_minimal.sol_confuse.sol",
+        "path": "obfuscated_dataset/front_running/eth_tx_order_dependence_minimal.sol_confuse.sol",
+        "vulnerabilities": [
+            {
+                "bites": [
+                    1843-2149
+                ],
+                "category": "front_running"
+            },
+            {
+                "bites": [
+                    2840-2947
+                ],
+                "category": "front_running"
+            }
+        ]
+    },
+	{
+        "name": "crypto_roulette.sol_confuse.sol",
+        "path": "obfuscated_dataset/other/crypto_roulette.sol_confuse.sol",
+        "vulnerabilities": [
+            {
+                "bites": [
+                    1141-2343
+                ],
+                "category": "other"
+            }
+        ]
+    },
+	{
+        "name": "name_registrar.sol_confuse.sol",
+        "path": "obfuscated_dataset/other/name_registrar.sol_confuse.sol",
+        "vulnerabilities": [
+            {
+                "bites": [
+                    1128-1437
+                ],
+                "category": "other"
+            }
+        ]
+    },
+	{
+        "name": "open_address_lottery.sol_confuse.sol",
+        "path": "obfuscated_dataset/other/open_address_lottery.sol_confuse.sol",
+        "vulnerabilities": [
+            {
+                "bites": [
+                    11142-13013
+                ],
+                "category": "other"
+            }
+        ]
+    },
+	{
+        "name": "etherbank.sol_confuse.sol",
+        "path": "obfuscated_dataset/reentrancy/etherbank.sol_confuse.sol",
+        "vulnerabilities": [
+            {
+                "bites": [
+                    2006-2205
+                ],
+                "category": "reentrancy"
+            }
+        ]
+    },
+    {
+        "name": "etherstore.sol_confuse.sol",
+        "path": "obfuscated_dataset/reentrancy/etherstore.sol_confuse.sol",
+        "vulnerabilities": [
+            {
+                "bites": [
+                    2439-2637
+                ],
+                "category": "reentrancy"
+            }
+        ]
+    },
+	{
+        "name": "reentrance.sol_confuse.sol",
+        "path": "obfuscated_dataset/reentrancy/reentrance.sol_confuse.sol",
+        "vulnerabilities": [
+            {
+                "bites": [
+                    1481-1691
+                ],
+                "category": "reentrancy"
+            }
+        ]
+    },
+    {
+        "name": "reentrancy_bonus.sol_confuse.sol",
+        "path": "obfuscated_dataset/reentrancy/reentrancy_bonus.sol_confuse.sol",
+        "vulnerabilities": [
+            {
+                "bites": [
+                    3466-3797
+                ],
+                "category": "reentrancy"
+            }
+        ]
+    },
+	{
+        "name": "reentrancy_dao.sol_confuse.sol",
+        "path": "obfuscated_dataset/reentrancy/reentrancy_dao.sol_confuse.sol",
+        "vulnerabilities": [
+            {
+                "bites": [
+                    1243-1429
+                ],
+                "category": "reentrancy"
+            }
+        ]
+    },
+    {
+        "name": "reentrancy_insecure.sol_confuse.sol",
+        "path": "obfuscated_dataset/reentrancy/reentrancy_insecure.sol_confuse.sol",
+        "vulnerabilities": [
+            {
+                "bites": [
+                    834-1021
+                ],
+                "category": "reentrancy"
+            }
+        ]
+    },
+    {
+        "name": "reentrancy_simple.sol_confuse.sol",
+        "path": "obfuscated_dataset/reentrancy/reentrancy_simple.sol_confuse.sol",
+        "vulnerabilities": [
+            {
+                "bites": [
+                    1166-1389
+                ],
+                "category": "reentrancy"
+            }
+        ]
+    },
+    {
+        "name": "simple_dao.sol_confuse.sol",
+        "path": "obfuscated_dataset/reentrancy/simple_dao.sol_confuse.sol",
+        "vulnerabilities": [
+            {
+                "bites": [
+                    1316-1505
+                ],
+                "category": "reentrancy"
+            }
+        ]
+    },
+	{
+        "name": "short_address_example.sol_confuse.sol",
+        "path": "obfuscated_dataset/short_addresses/short_address_example.sol_confuse.sol",
+        "vulnerabilities": [
+            {
+                "bites": [
+                    776-993
+                ],
+                "category": "short_addresses"
+            }
+        ]
+    },
+	 {
+        "name": "ether_lotto.sol_confuse.sol",
+        "path": "obfuscated_dataset/time_manipulation/ether_lotto.sol_confuse.sol",
+        "vulnerabilities": [
+            {
+                "bites": [
+                    1847-2124
+                ],
+                "category": "time_manipulation"
+            }
+        ]
+    },
+	{
+        "name": "lottopollo.sol_confuse.sol",
+        "path": "obfuscated_dataset/time_manipulation/lottopollo.sol_confuse.sol",
+        "vulnerabilities": [
+            {
+                "bites": [
+                   429-596 
+                ],
+                "category": "time_manipulation"
+            },
+            {
+                "bites": [
+                    2969-3068
+                ],
+                "category": "time_manipulation"
+            }
+        ]
+    },
+    {
+        "name": "roulette.sol_confuse.sol",
+        "path": "obfuscated_dataset/time_manipulation/roulette.sol_confuse.sol",
+        "vulnerabilities": [
+            {
+                "bites": [
+                    157-286
+                ],
+                "category": "time_manipulation"
+            },
+            {
+                "bites": [
+                    308-411
+                ],
+                "category": "time_manipulation"
+            }
+        ]
+    },
+    {
+        "name": "timed_crowdsale.sol_confuse.sol",
+        "path": "obfuscated_dataset/time_manipulation/timed_crowdsale.sol_confuse.sol",
+        "vulnerabilities": [
+            {
+                "bites": [
+                    239-355
+                ],
+                "category": "time_manipulation"
+            }
+        ]
+    },
+	{
+        "name": "lotto.sol_confuse.sol",
+        "path": "obfuscated_dataset/unchecked_low_level_calls/lotto.sol_confuse.sol",
+        "vulnerabilities": [
+            {
+                "bites": [
+					857-1155
+                "category": "unchecked_low_level_calls"
+            },
+            {
+                "bites": [
+                    2314-2464
+                ],
+                "category": "unchecked_low_level_calls"
+            }
+        ]
+    },
+	{
+        "name": "uncheck1.sol_confuse.sol",
+        "path": "obfuscated_dataset/unchecked_low_level_calls/uncheck1.sol_confuse.sol",,
+        "vulnerabilities": [
+            {
+                "bites": [
+                    1452-1632
+                ],
+                "category": "unchecked_low_level_calls"
+            }
+        ]
+    },
+	{
+        "name": "uncheck2.sol_confuse.sol",
+        "path": "obfuscated_dataset/unchecked_low_level_calls/uncheck2.sol_confuse.sol",
+        "vulnerabilities": [
+            {
+                "bites": [
+                    3269-3655
+                ],
+                "category": "unchecked_low_level_calls"
+            }
+        ]
+    },
+}
